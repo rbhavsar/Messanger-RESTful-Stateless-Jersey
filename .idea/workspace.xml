@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/BirstAdminCenter" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Projects/Java-8-Lambda-Basics-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Projects/JavaMultiThreading-master/JavaMultiThreadingCodes" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Projects/MyBatisDemo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Training_Demo/Java Code/original" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/ION1 2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Infor-clearspace/Infor-clearspace" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/JavaMultiThreading-master/JavaMultiThreadingCodes" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/OAuth1" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/OauthAPI" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/builder1" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/java-client" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/src" value="PREVIEW" />
+        <entry key="$USER_HOME$/Java-8-Lambda-Stream" value="PREVIEW" />
+        <entry key="$USER_HOME$/Java-8-Lambda-Stream/Lambda" value="PREVIEW" />
+        <entry key="$USER_HOME$/MockitoTest" value="PREVIEW" />
+        <entry key="$USER_HOME$/MockitoTestOrderProcessingService" value="PREVIEW" />
+        <entry key="$USER_HOME$/MockitoTest_" value="PREVIEW" />
+        <entry key="$USER_HOME$/PowerMockitoTest" value="PREVIEW" />
+        <entry key="$USER_HOME$/PowerMockitoTests" value="PREVIEW" />
+        <entry key="$USER_HOME$/SmallProjects" value="PREVIEW" />
+        <entry key="$USER_HOME$/StudentData" value="PREVIEW" />
+        <entry key="$USER_HOME$/StudentData/src" value="PREVIEW" />
+        <entry key="$USER_HOME$/birst" value="PREVIEW" />
+        <entry key="$USER_HOME$/birst-faro" value="PREVIEW" />
+        <entry key="$USER_HOME$/birst_chef_configs" value="PREVIEW" />
+        <entry key="$USER_HOME$/birst_copy" value="PREVIEW" />
+        <entry key="$USER_HOME$/btm" value="PREVIEW" />
+        <entry key="$USER_HOME$/btm-UIAutomator" value="PREVIEW" />
+        <entry key="$USER_HOME$/btm-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/chef-repo" value="PREVIEW" />
+        <entry key="$USER_HOME$/corejava" value="PREVIEW" />
+        <entry key="$USER_HOME$/fujita" value="PREVIEW" />
+        <entry key="$USER_HOME$/google-guice-tutorials" value="PREVIEW" />
+        <entry key="$USER_HOME$/infor-clearspace" value="PREVIEW" />
+        <entry key="$USER_HOME$/messenger" value="PREVIEW" />
+        <entry key="$USER_HOME$/oauth1-signer-java" value="PREVIEW" />
+        <entry key="$USER_HOME$/pipelinejobs" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/onlinebookstore" value="PREVIEW" />
+        <entry key="$USER_HOME$/qa" value="PREVIEW" />
+        <entry key="$USER_HOME$/qa/UIAutomator" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="813" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.32413793" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32413793" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32413793" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
