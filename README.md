@@ -7,3 +7,4 @@ MessageResource , CommentResource, ProfileResource - Stateless rest api + Jersey
 - Pagination 
 - XML , JSON request , response
 - @PathParam, @QueryParam, @DefaultValue, @HeaderParam , @CookieParam, @Context for UriInfo/HttpHeaders
+- Implemented filter method of ContainerRequestFilter interface to BASIC and OAUTH1 Authorization
